@@ -1,0 +1,17 @@
+export const colors = [
+  { name: "Pink", hex: "#FFC0CB" },
+  { name: "Green", hex: "#008000" },
+  { name: "Blue", hex: "#0000FF" },
+  { name: "Red", hex: "#FF0000" },
+  { name: "Yellow", hex: "#FFFF00" },
+  { name: "Black", hex: "#000000" },
+  { name: "Purple", hex: "#800080" },
+  { name: "Navy Blue", hex: "#000080" },
+  { name: "Brown", hex: "#A52A2A" },
+  { name: "White", hex: "#FFFFFF" },
+  { name: "Maroon", hex: "#800000" },
+  { name: "Grey", hex: "#808080" },
+  { name: "Burgundy", hex: "#800020" },
+  { name: "Beige", hex: "#F5F5DC" },
+  { name: "Nude", hex: "#FFFAE6" },
+];
